@@ -1,0 +1,44 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "El Padrino",
+      "año_estreno": 1972
+    },
+    {
+      "id": 2,
+      "titulo": "Casablanca",
+      "año_estreno": 1942
+    },
+    {
+      "id": 3,
+      "titulo": "Pulp Fiction",
+      "año_estreno": 1994
+    },
+    {
+      "id": 4,
+      "titulo": "2001: Odisea del Espacio",
+      "año_estreno": 1968
+    },
+    {
+      "id": 5,
+      "titulo": "Ciudadano Kane",
+      "año_estreno": 1941
+    },
+    {
+      "id": 6,
+      "titulo": "Star Wars: Episodio IV - Una Nueva Esperanza",
+      "año_estreno": 1977
+    },
+    {
+      "id": 7,
+      "titulo": "La Lista de Schindler",
+      "año_estreno": 1993
+    },
+    {
+      "id": 8,
+      "titulo": "Psicosis",
+      "año_estreno": 1960
+    }
+  ]
+}
